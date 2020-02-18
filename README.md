@@ -1,2 +1,2 @@
 # Foundations-of-Business-Analytics-QBUS1040
-Algorithms developed during the course using python.
+Algorithms and functions developed during the course using python.
